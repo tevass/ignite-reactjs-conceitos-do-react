@@ -7,7 +7,6 @@ Projeto para estudo sobre conceitos fundamentais do [React](https://react.dev/) 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://react.dev/)
-- [CRA](https://create-react-app.dev/) (Create React APP)
 - [Webpack](https://webpack.js.org/)
 - [Typescript](https://www.typescriptlang.org/)
 
